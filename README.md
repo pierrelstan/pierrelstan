@@ -1,7 +1,7 @@
  # Hi there , I'm  Stanley 👋🏾
  
  
- I am a web developer focus on the MERN STACK. I'm looking to expand my career as a  developer, and I'm highly motivated and constantly improve my skills. I like to take up new challenges and gain new experiences , and contribute to open-source.
+ I am a web developer focus on the MERN STACK. I'm highly motivated and constantly improve my skills. I like to take up new challenges and gain new experiences , and contribute to open-source.
  
  
   <br />
