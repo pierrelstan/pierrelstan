@@ -1,7 +1,7 @@
  # Hi there , I'm  Stanley 👋🏾
  
  
- I am a React Developer. I'm highly motivated and constantly improve my skills. I like to take up new challenges and gain new experiences , and contribute to open-source.
+ I am a React Developer. 
  
  
   <br />
