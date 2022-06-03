@@ -1,7 +1,5 @@
  # Hi there , I'm  Stanley 👋🏾
- 
- 
- I am a React Developer. 
+  
  
  
   <br />
