@@ -1,11 +1,6 @@
 <h1 align="center">Hi , I'm Stanley Piere Louis</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierrelstan&label=Profile%20views&color=0e75b6&style=flat" alt="pierrelstan" /> </p>
 
-- 🔭 I’m currently working on **Web** and **mobile Development**.
-
-- 🌱 I’m currently learning **DSA**
-
-- 💬 Ask me about **react, react-native**
 
 - 📫 How to reach me **stanleypl75@gmail.com**
 
